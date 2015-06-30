@@ -1,3 +1,3 @@
 # jasonbasanesetest
-jasons test repo
-here is the new info
+Jason's test repository
+Here is the new information. 
